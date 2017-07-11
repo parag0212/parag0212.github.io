@@ -50,9 +50,11 @@ header p {
   color: #fff;
 }
 
-section .row img {
+section .row iframe {
   margin: 0 0 30px;
-  width: 100%;
+  width: 75%;
+  height: 75%;
+  display: block;
 }
 
 .col-md-6 {
