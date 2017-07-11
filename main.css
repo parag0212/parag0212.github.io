@@ -49,7 +49,11 @@ header p {
   margin: 0 0 20px;
   color: #fff;
 }
-
+#name{
+  font-family: jokerman;
+  color: black;
+  font-size: 20px;
+}
 section .row iframe {
   margin: 0 0 30px;
   width: 75%;
