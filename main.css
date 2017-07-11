@@ -54,12 +54,12 @@ header p {
   color: black;
   font-size: 20px;
 }
-/*section .row iframe {
+section .row iframe {
   margin: 0 0 30px;
   width: 75%;
   height: 75%;
   display: block;
-}*/
+}
 
 .col-md-6 {
   margin: 0 0 30px;
