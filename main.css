@@ -6,6 +6,10 @@ body {
 header {
   padding: 20px 0;
 }
+#heade{
+  color: black;
+  font-family: 'Indie Flower', cursive;
+}
 
 header .row,
 footer .row {
